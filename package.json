@@ -1,7 +1,7 @@
 {
   "name": "echarts-for-react",
-  "version": "1.1.6",
-  "description": "baidu Echarts(v3.0) components for react",
+  "version": "1.0.0",
+  "description": "baidu Echarts(v3.4.0) components for react",
   "main": "lib/echarts-for-react",
   "scripts": {
     "start": "webpack-dev-server --watch",
@@ -14,8 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "build-demos": "webpack",
-    "url": "https://github.com/hustcc/echarts-for-react.git"
+    "url": "https://github.com/benweizhu/echarts-for-react.git"
   },
   "keywords": [
     "react",

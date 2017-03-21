@@ -1,6 +1,10 @@
 # echarts-for-react
 
-A very simple echarts(v3.0) wrapper for react.
+Forked from https://github.com/hustcc/echarts-for-react
+
+Upgrade echarts version to v3.4
+
+A very simple echarts(v3.4) wrapper for react.
 
 [![Build Status](https://travis-ci.org/hustcc/echarts-for-react.svg?branch=master)](https://travis-ci.org/hustcc/echarts-for-react) [![npm](https://img.shields.io/npm/v/echarts-for-react.svg?style=flat-square)](https://www.npmjs.com/package/echarts-for-react) [![npm](https://img.shields.io/npm/dt/echarts-for-react.svg?style=flat-square)](https://www.npmjs.com/package/echarts-for-react) [![npm](https://img.shields.io/npm/l/echarts-for-react.svg?style=flat-square)](https://www.npmjs.com/package/echarts-for-react)
 
